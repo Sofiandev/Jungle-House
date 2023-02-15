@@ -33,7 +33,7 @@ export const plantList = [
     id: "6uo",
   },
   {
-    name: "basilique",
+    name: "basilic",
     category: "extérieur",
     id: "7ie",
     isBestSale: true,
