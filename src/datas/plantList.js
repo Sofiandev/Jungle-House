@@ -1,11 +1,10 @@
-import "../styles/ShoppingList.css";
-
 export const plantList = [
   {
     name: "monstera",
     category: "classique",
     id: "1ed",
     isBestSale: true,
+    isSpecialOffer: true,
   },
   {
     name: "ficus lyrata",
@@ -21,6 +20,7 @@ export const plantList = [
     name: "yucca",
     category: "classique",
     id: "4kk",
+    isSpecialOffer: true,
   },
   {
     name: "olivier",
